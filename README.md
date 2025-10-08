@@ -1,3 +1,4 @@
-| Left Section | Right Section |
-|---------------|----------------|
-| Content for the left side | Content for the right side |
+<p align="center">
+  <img src="left.png" width="45%" />
+  <img src="right.png" width="45%" />
+</p>
