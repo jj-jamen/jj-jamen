@@ -1,4 +1,4 @@
-<table>
+<table border="0">
   <tr>
     <td width="50%" valign="top">
       <h3>🧠 About Me</h3>
