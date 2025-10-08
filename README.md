@@ -1,1 +1,1 @@
-<div align="center"><h2>Let's shorten my name, you can call me "JJ"</h2></div>
+<div align="center"><h2>Hey, I'm JJ</h2></div>
