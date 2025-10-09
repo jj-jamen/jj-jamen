@@ -6,6 +6,8 @@
     <span>Headless commerce and Shopify-focused full-stack developer</span>
 </p>
 
+<br>
+
 <!--Tech Stack and Tools-->
 
 <p align="center">
