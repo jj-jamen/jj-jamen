@@ -37,5 +37,3 @@ Shopify-focused full-stack developer
 </p>
 
 <!--Projects-->
-
-#### Projects
