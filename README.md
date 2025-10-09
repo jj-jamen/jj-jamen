@@ -1,9 +1,7 @@
 <!--Name-->
 
 <p align="center">
-
-## Hi, I'm John Jeffrey Jamen 👋
-
+### Hi, I'm John Jeffrey Jamen 👋
 </p>
 
 <!--Title-->
