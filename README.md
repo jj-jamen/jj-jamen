@@ -2,6 +2,7 @@
 
 <p align="center">
     <img src="assets/name.png" alt="jj-jamen" width="500"/>
+    <br>
     <span>Shopify-focused full-stack developer</span>
 </p>
 
