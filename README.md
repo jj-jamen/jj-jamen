@@ -2,9 +2,9 @@
   <tr>
     <td width="50%" valign="top">
       <h2>👋 Hi I'm John Jeffrey Jamen.</h2>
-      <h3>
+      <p>
         Shopify focused fullstack developer
-      </h3>
+      </p>
     </td>
     <td width="50%" valign="top" align="center">
       <a href="https://git.io/streak-stats">
