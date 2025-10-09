@@ -8,14 +8,6 @@
 
 <br>
 
-<!--Streak-->
-
-<p align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=jj-jamen&theme=merko&hide_border=true&short_numbers=true&mode=weekly&card_height=170&background=0D1117" alt="GitHub Streak" /></a>
-</p>
-
-<br>
-
 <!--Tech Stack and Tools-->
 
 <p align="center">
