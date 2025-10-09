@@ -6,8 +6,6 @@
     <span>Shopify-focused full-stack developer</span>
 </p>
 
-<br>
-
 <!--Tech Stack and Tools-->
 
 <p align="center">
@@ -27,7 +25,5 @@
 <img src="assets/npm.png" alt="npm" width="30"/> &nbsp;
 <img src="assets/yarn.png" alt="yarn" width="30"/> &nbsp;
 </p>
-
-
 
 <!--Projects-->
