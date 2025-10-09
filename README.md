@@ -10,6 +10,8 @@
 
 <p align="center">
 <img src="assets/shopify.png" alt="Shopify" width="30"/> &nbsp;
+<img src="assets/shopify-liquid.png" alt="shopify-liquid" width="30"/> &nbsp;
+<img src="assets/shopify-hydrogen.png" alt="shopify-hydrogen" width="30"/> &nbsp;
 <img src="assets/html.png" alt="html" width="30"/> &nbsp;
 <img src="assets/css.png" alt="css" width="30"/> &nbsp;
 <img src="assets/tailwind-css.png" alt="tailwind" width="30"/> &nbsp;
