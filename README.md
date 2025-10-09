@@ -11,9 +11,7 @@
 
 <!--Tech Stack-->
 
-<p align="center">
-    <strong>Tech and Tools</strong>
-</p>
+### Tech and Tools
 
 <p align="center">
 <img src="assets/shopify.svg" alt="Shopify" width="35"/> &nbsp;
