@@ -23,4 +23,10 @@
 
 <!--Tech Stack-->
 
-<h3>Tech Stack</h3>
+<h3>Tech Stack + Tools</h3>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" /> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" /> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" /> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/shopify/shopify-original.svg" width="40" /> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" /> 
