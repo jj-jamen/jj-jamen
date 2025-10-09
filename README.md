@@ -4,6 +4,10 @@
     <strong>Hi, I'm John Jeffrey Jamen 👋</strong>
 </h3>
 
+<p align="center">
+    Founder of <a href="https://omsim.io"><b>omsim.io</b></a> and a Shopify-focused full-stack developer.
+</p>
+
 
 <!--Tech Stack-->
 
