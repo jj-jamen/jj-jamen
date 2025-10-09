@@ -5,7 +5,7 @@
 </h3>
 
 <p align="center">
-Shopify-focused full-stack developer.
+Shopify-focused full-stack developer
 </p>
 
 
