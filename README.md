@@ -2,11 +2,7 @@
 
 <p align="center">
     <strong>Hi, I'm John Jeffrey Jamen 👋</strong>
-</p>
-
-<!--Title-->
-<p align="center">
-    <small>Founder of <a href="https://omsim.io"><b>omsim.io</b></a> and a Shopify-focused full-stack developer.<small>
+    Founder of <a href="https://omsim.io"><b>omsim.io</b></a> and a Shopify-focused full-stack developer.
 </p>
 
 
