@@ -1,7 +1,7 @@
 <table border="0">
   <tr>
     <td width="50%" valign="top">
-      <h2>👋 Hi I'm John Jeffrey Jamen.</h2>
+      <h3>👋 Hi I'm John Jeffrey Jamen.</h3>
       <p>
         Shopify focused fullstack developer
       </p>
