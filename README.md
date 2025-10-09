@@ -1,8 +1,8 @@
 <!--Header-->
+
 <table border="0">
   <tr>
     <td width="50%" valign="top">
-      
       <p>
         Shopify-focused full-stack developer. Building 
         <a href="https://omsim.io" target="_blank"><strong>Omsim.io</strong></a>.
@@ -17,5 +17,7 @@
     </td>
   </tr>
 </table>
+
 <!--Tech Stack-->
+
 <h3 align="center" >Current Tech Stack</h3>
