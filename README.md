@@ -3,10 +3,10 @@
 <table border="0">
   <tr>
     <td width="50%" valign="top">
+      <h3>Hi, I'm John Jeffrey Jamen 👋</h3>
       <p>
         Founder of <a href="https://omsim.io" target="_blank"><strong>Omsim.io</strong></a>.
      </p>
-      <h3>Hi, I'm John Jeffrey Jamen 👋</h3>
       <p>
         Shopify-focused full-stack developer.
         I design and ship scalable eCommerce solutions, automate workflows, and create tools that solve real problems.
