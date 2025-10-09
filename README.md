@@ -14,5 +14,5 @@
 #### Tech and Tools
 
 <p align="center">
-<img src="assets/shopify.svg" alt="Shopify" width="35"/> &nbsp;
+<img src="assets/shopify.png" alt="Shopify" width="35"/> &nbsp;
 </p>
