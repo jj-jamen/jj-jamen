@@ -1,6 +1,6 @@
 <!--Header-->
 
-<h3 align="center">Hi, I'm John Jeffrey Jamen 👋</h3>
+<h2 align="center">Hi, I'm John Jeffrey Jamen 👋</h2>
     <p>
         Founder of <a href="https://omsim.io"><b>Omsim.io</b></a> and a Shopify-focused full-stack developer.
     </p>
