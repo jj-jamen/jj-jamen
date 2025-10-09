@@ -15,4 +15,5 @@
 
 <p align="center">
 <img src="assets/shopify.png" alt="Shopify" width="40"/> &nbsp;
+<img src="assets/javascript.png" alt="JavaScript" width="40"/> &nbsp;
 </p>
