@@ -1,8 +1,8 @@
 <!--Name-->
 
-<h3 align="center">
+<p align="center">
     <img src="assets/name.png" alt="jj-jamen" width="500"/> &nbsp;
-</h3>
+</p>
 
 <p align="center">
 Shopify-focused full-stack developer
