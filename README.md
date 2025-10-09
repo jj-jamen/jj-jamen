@@ -33,4 +33,8 @@ Shopify-focused full-stack developer
 
 <!--Streak-->
 
+<p align="center">
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=jj-jamen&theme=merko&hide_border=true&short_numbers=true&mode=weekly)](https://git.io/streak-stats)
+
+</p>
