@@ -1,7 +1,7 @@
 <!--Name-->
 
 <h3 align="center">
-    <strong>John Jeffrey Jamen</strong>
+    <img src="assets/name.png" alt="jj-jamen" width="30"/> &nbsp;
 </h3>
 
 <p align="center">
