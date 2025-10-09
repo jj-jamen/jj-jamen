@@ -1,8 +1,8 @@
 <!--Name-->
 
-<h3 align="center">
+<p align="center" style="font-size: 24px; font-weight: bold;">
 Hi, I'm John Jeffrey Jamen 👋
-</h3>
+</p>
 
 <!--Title-->
 <p align="center">
