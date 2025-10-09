@@ -22,5 +22,7 @@
 
 <h3>Tech Stack & Tools</h3>
 
+<p>
+<img src="assets/shopify.svg" alt="Shopify" width="35"/> &nbsp;
 <img src="assets/shopify.svg" alt="Shopify" width="35"/>
-<img src="assets/shopify.svg" alt="Shopify" width="35"/>
+</p>
