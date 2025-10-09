@@ -1,7 +1,7 @@
 <!--Name-->
 
 <h3 align="center">
-    <img src="assets/name.svg" alt="jj-jamen" width="30"/> &nbsp;
+    <img src="assets/name.svg" alt="jj-jamen" width="100"/> &nbsp;
 </h3>
 
 <p align="center">
