@@ -24,9 +24,3 @@
 <!--Tech Stack-->
 
 <h3>Tech Stack + Tools</h3>
-
-![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg)
-![React](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg)
-![Node.js](https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg)
-![Shopify](https://upload.wikimedia.org/wikipedia/commons/6/6e/Shopify_logo_2018.svg)
-![PostgreSQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg)
