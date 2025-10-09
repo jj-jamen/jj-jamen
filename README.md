@@ -8,6 +8,7 @@
 Shopify-focused full-stack developer
 </p>
 
+<br>
 
 <!--Tech Stack and Tools-->
 
