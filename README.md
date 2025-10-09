@@ -1,7 +1,7 @@
 <!--Name-->
 
 <p align="center">
-    <img src="assets/name.png" alt="jj-jamen" width="500"/> &nbsp;
+    <img src="assets/name.png" alt="jj-jamen" width="500"/>
 </p>
 
 <p align="center">
