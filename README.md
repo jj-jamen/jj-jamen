@@ -33,4 +33,9 @@ Shopify-focused full-stack developer
 
 <!--Streak-->
 
-<a href="https://git.io/streak-stats"><img align="center" src="https://streak-stats.demolab.com?user=jj-jamen&theme=merko&hide_border=true&short_numbers=true&mode=weekly" alt="GitHub Streak" /></a>
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=jj-jamen&theme=merko&hide_border=true&short_numbers=true&mode=weekly" 
+         alt="GitHub Streak" />
+  </a>
+</p>
