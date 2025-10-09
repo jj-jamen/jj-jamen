@@ -20,7 +20,7 @@
 
 <!--Tech Stack-->
 
-<h3>Tech Stack & Tools</h3>
+### Tech & Tools
 
 <p>
 <img src="assets/shopify.svg" alt="Shopify" width="35"/> &nbsp;
