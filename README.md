@@ -1,7 +1,7 @@
 <!--Name-->
 
-<p align="center" style="font-size: 24px; font-weight: bold;">
-Hi, I'm John Jeffrey Jamen 👋
+<p align="center">
+    <strong>Hi, I'm John Jeffrey Jamen 👋</strong>
 </p>
 
 <!--Title-->
