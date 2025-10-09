@@ -13,7 +13,7 @@
      </p>
      <br>
     </td>
-    <td width="50%" valign="top" align="center">
+    <td width="50%" valign="center" align="center">
       <a href="https://git.io/streak-stats">
         <img src="https://streak-stats.demolab.com?user=jj-jamen&theme=merko" alt="GitHub Streak" width="400" />
       </a>
