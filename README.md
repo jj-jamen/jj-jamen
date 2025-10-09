@@ -11,7 +11,7 @@
 
 <!--Tech Stack-->
 
-#### Technologies of trade
+#### TECH AND TOOLS 
 
 <p align="center">
 <img src="assets/shopify.svg" alt="Shopify" width="35"/> &nbsp;
