@@ -9,7 +9,7 @@
         I design and ship scalable eCommerce solutions, automate workflows, and create tools that solve real problems.
      </p>
      <p>
-     Building my start-up project <a href="https://omsim.io" target="_blank"><strong>Omsim.io</strong></a>.
+     Founded and building <a href="https://omsim.io" target="_blank"><strong>Omsim.io</strong></a>.
      </p>
      <br>
     </td>
