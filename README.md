@@ -1,11 +1,11 @@
 <!--Name-->
 
-<p align="center">
+<h6 align="center">
     <strong>Hi, I'm John Jeffrey Jamen 👋</strong>
     <span>
     Founder of <a href="https://omsim.io"><b>omsim.io</b></a> and a Shopify-focused full-stack developer.
     </span>
-</p>
+</h6>
 
 
 <!--Tech Stack-->
