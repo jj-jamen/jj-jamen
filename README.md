@@ -1,10 +1,10 @@
 <table border="0">
   <tr>
     <td width="50%" valign="top">
-      <h3>👋 Hi I'm John Jeffrey Jamen.</h3>
-      <p>
-        Building <a href="https://omsim.io" target="_blank"><strong>Omsim.io</strong></a> — a Shopify-focused web development agency helping businesses scale their eCommerce stores.
-      </p>
+      <h2>👋 Hi I'm John Jeffrey Jamen.</h2>
+      <h3>
+        Shopify focused fullstack developer
+      </h3>
     </td>
     <td width="50%" valign="top" align="center">
       <a href="https://git.io/streak-stats">
