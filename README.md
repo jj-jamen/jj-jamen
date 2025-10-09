@@ -11,8 +11,6 @@ Shopify-focused full-stack developer
 
 <!--Tech Stack and Tools-->
 
-#### Tech and Tools
-
 <p align="center">
 <img src="assets/shopify.png" alt="Shopify" width="30"/> &nbsp;
 <img src="assets/html.png" alt="html" width="30"/> &nbsp;
