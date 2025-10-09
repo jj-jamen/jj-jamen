@@ -11,6 +11,7 @@
      <p>
      Building my start-up project <a href="https://omsim.io" target="_blank"><strong>Omsim.io</strong></a>.
      </p>
+     <br>
     </td>
     <td width="50%" valign="top" align="center">
       <a href="https://git.io/streak-stats">
