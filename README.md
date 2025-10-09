@@ -1,7 +1,7 @@
 <!--Name-->
 
 <h3 align="center">
-    <strong>Hi, I'm John Jeffrey Jamen</strong>
+    <strong>John Jeffrey Jamen</strong>
 </h3>
 
 <p align="center">
