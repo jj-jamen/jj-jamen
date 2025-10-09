@@ -20,6 +20,6 @@
 
 <!--Tech Stack-->
 
-<h3>Tech Stack + Tools</h3>
+<h3>Tech Stack & Tools</h3>
 
 <img src="assets/shopify.svg" alt="Shopify" width="35"/>
