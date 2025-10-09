@@ -3,7 +3,7 @@
 <p align="center">
     <img src="assets/name.png" alt="jj-jamen" width="400"/>
     <br>
-    <span>Shopify-focused full-stack developer</span>
+    <span>Headless commerce and Shopify-focused full-stack developer</span>
 </p>
 
 <!--Tech Stack and Tools-->
