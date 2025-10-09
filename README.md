@@ -10,8 +10,11 @@ Founder of <a href="https://omsim.io"><b>omsim.io</b></a> and a Shopify-focused 
 </p>
 
 
-<!--Tech and Tools-->
+<!--Tech Stack-->
 
 ### Tech & Tools
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+<p>
+<img src="assets/shopify.svg" alt="Shopify" width="35"/> &nbsp;
+<img src="assets/shopify.svg" alt="Shopify" width="35"/>
+</p>
