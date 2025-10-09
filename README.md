@@ -1,5 +1,10 @@
 <!--Name-->
-<h2 align="center">Hi, I'm John Jeffrey Jamen 👋</h2>
+
+<p align="center">
+
+### Hi, I'm John Jeffrey Jamen 👋
+
+</p>
 
 <!--Title-->
 <p align="center">
