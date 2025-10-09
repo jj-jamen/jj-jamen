@@ -2,10 +2,11 @@
 
 <p align="center">
     <img src="assets/name.png" alt="jj-jamen" width="500"/>
+    Shopify-focused full-stack developer
 </p>
 
 <p align="center">
-Shopify-focused full-stack developer
+
 </p>
 
 <br>
