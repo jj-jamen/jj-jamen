@@ -1,9 +1,5 @@
 <!--Name-->
 
-<h4 align="center">
-    <strong>Hi, I'm John Jeffrey Jamen</strong>
-</h4>
-
 <h3 align="center">
     <strong>Hi, I'm John Jeffrey Jamen</strong>
 </h3>
