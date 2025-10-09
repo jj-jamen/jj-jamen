@@ -3,6 +3,7 @@
 <table border="0">
   <tr>
     <td width="50%" valign="top">
+      <h3>Hi, I'm John Jeffrey Jamen 👋</h3>
       <p>
         Shopify-focused full-stack developer. Building 
         <a href="https://omsim.io" target="_blank"><strong>Omsim.io</strong></a>.
@@ -20,4 +21,4 @@
 
 <!--Tech Stack-->
 
-<h3 align="center" >Current Tech Stack</h3>
+<h3>Tech Stack</h3>
